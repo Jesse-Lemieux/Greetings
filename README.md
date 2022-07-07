@@ -21,7 +21,7 @@
   ## :speech_balloon: Get in touch
   
    - [LinkedIn](https://www.linkedin.com/in/jesse-lemieux-064725244/)
-   - [Portfolio](Jesselemieux.com)
+   - [Portfolio](https://secure-cliffs-02772.herokuapp.com/)
    - [Email (Jesse.Lemieux.Tech@gmail.com)](mailto:Jesse.Lemieux.Tech@gmail.com)
 
 
